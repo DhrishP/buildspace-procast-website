@@ -4,10 +4,10 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Buildspace Blog Page (@whycurious101)
+        My WriteUps Page
       </h1>
       <p className="mb-4">
-        {`I write my writings , all my procastinations and my thoughts here. I am writing a little freestlye blogs for now , which I enjoy doing. Hope you do not mind but also let me know you feed on twitter DM's or my email. Thanks for visiting😊`}
+        {`Hi, I am Dhrish Parekh. Currently a fullstack developer and forever a CURIOUS mind.I write my writings , thoughts , WTF moments and ideas here. It is a place which has all the not so accurate , authentic writing to maximize fun and authenticity. I hope you find some interesting here and drop a message or drop a message or maybe schedule a call to connect and learn more🍾`}
       </p>
       <div className="my-8">
         <BlogPosts />

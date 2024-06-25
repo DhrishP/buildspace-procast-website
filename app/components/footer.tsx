@@ -52,6 +52,28 @@ export default function Footer() {
             <p className="ml-2 h-7">email</p>
           </a>
         </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://cal.com/whycurious101"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">cal</p>
+          </a>
+        </li>
+        {/* <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://cal.com/whycurious101"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">substack</p>
+          </a>
+        </li> */}
       </ul>
     </footer>
   );

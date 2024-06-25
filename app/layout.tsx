@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Whycurious's Buildspace Blog",
     description: "A place to build my habit of sharing my thoughts and ideas.",
     url: baseUrl,
-    siteName: "My Portfolio",
+    siteName: "Whycurious's Writeups",
     locale: "en_US",
     type: "website",
   },
@@ -33,6 +33,7 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  
 };
 
 const cx = (...classes) => classes.filter(Boolean).join(" ");
