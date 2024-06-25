@@ -1,4 +1,4 @@
-import { BlogPosts } from "app/components/posts";
+
 import Link from "next/link";
 
 export const metadata = {
@@ -52,7 +52,7 @@ export default function Page() {
       </div>
       </div>
       <h2 className="text-sm  mt-8 tracking-tighter">
-        If you find Streams cool , show some loves to the devs❤️
+        If you find Streams cool , show some loves to the devs💙
       </h2>
     </section>
   );
