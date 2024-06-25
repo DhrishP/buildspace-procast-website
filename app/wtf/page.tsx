@@ -26,10 +26,9 @@ export default function Page() {
           stream.place/whycurious101
         </Link>
         <br/>
-        (do not worry, it loads fast and also a key tip to support this cool
-        thing!!!)
+        ( Go against your low dopamine resistance and visit it. Dont worry , it loads fast. )
       </h2>
-
+<div className="mt-12">
       <h3 className="text-lg mt-8 tracking-tighter">Some examples of WTF'kies</h3>
       <div className="space-y-4">
         <div className="border-t pt-4">
@@ -51,6 +50,10 @@ export default function Page() {
           </p>
         </div>
       </div>
+      </div>
+      <h2 className="text-sm  mt-8 tracking-tighter">
+        If you find Streams cool , show some loves to the devs❤️
+      </h2>
     </section>
   );
 }
