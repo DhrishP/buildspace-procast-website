@@ -14,7 +14,7 @@ export default function Page() {
         Connecting the Dots Logs
       </h1>
       <p className="mb-4">
-        {`All my sudden WTF procrastination moments saved here. The connecting the dots moment which Steve jobs mentioned, yea that one. The dopamine hits of philosophy and psychology, yeah yeah that moments.🔗`}
+        {`All my sudden WTF procrastination moments saved here. The connecting the dots moment which Steve jobs mentioned, yea that one. The dopamine hits of philosophy and psychology, yeah yeah that moments!!`}
       </p>
 
       <h2 className="text-lg mt-8 tracking-tighter">
