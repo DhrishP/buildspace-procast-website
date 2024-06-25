@@ -8,7 +8,7 @@ const navItems = {
     name: "blog",
   },
   "/wtf": {
-    name: `WTF'zers`,
+    name: `CTD's`,
   },
 };
 
