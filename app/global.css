@@ -52,7 +52,7 @@ html {
 }
 
 .prose .anchor:after {
-  @apply text-neutral-300 dark:text-neutral-700;
+  @apply text-neutral-400 dark:text-neutral-700;
   content: '#';
 }
 
@@ -82,9 +82,13 @@ html {
   /* Don't apply styles to next/image */
   @apply m-0;
 }
+.prose strong{
+  @apply text-blue-300;
+
+}
 
 .prose p {
-  @apply my-4 text-neutral-200;
+  @apply my-4 text-neutral-300;
 }
 
 .prose h1 {

@@ -10,7 +10,7 @@ export const metadata = {
 export default function Page() {
   return (
     <section>
-      <h1 className="font-semibold text-2xl mb-8  tracking-tighter">
+      <h1 className="font-semibold text-2xl text-blue-300 mb-8  tracking-tighter">
         Connecting the Dots Logs
       </h1>
       <p className="mb-4">
