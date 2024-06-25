@@ -33,9 +33,9 @@ export default function Page() {
       <h3 className="text-lg mt-8 tracking-tighter">Some examples of WTF'kies</h3>
       <div className="space-y-4">
         <div className="border-t pt-4">
-          <div className="flex justify-between items-center mb-2">
+          <Link href={"https://streams.place/whycurious101/drops/201004792456323072"} className="flex justify-between items-center mb-2">
             <span className="text-sm text-gray-100">2024-06-25 16:01</span>
-          </div>
+          </Link>
           <p className="text-gray-400">
             By rules of capitalism, leverage on therapy makes sense but still
             there has to be a better way
@@ -43,9 +43,9 @@ export default function Page() {
         </div>
 
         <div className="border-t pt-4">
-          <div className="flex justify-between items-center mb-2">
+          <Link href={"https://streams.place/whycurious101/drops/201004225642274816"} className="flex justify-between items-center mb-2">
             <span className="text-sm text-gray-100">2024-06-25 15:59</span>
-          </div>
+          </Link>
           <p className="text-gray-400">
             Therapy should be cheaper, specially in the information age
           </p>
